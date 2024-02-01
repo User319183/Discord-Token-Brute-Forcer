@@ -1,4 +1,4 @@
-# Project Title: Discord Token Brute Forcer
+# Discord Token Brute Forcer
 
 This project is a Go-based application designed to brute force Discord tokens. It uses a multi-threaded approach to maximize efficiency and speed.
 
